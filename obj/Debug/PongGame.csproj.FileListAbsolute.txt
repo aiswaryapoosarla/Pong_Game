@@ -1,0 +1,11 @@
+C:\AISWARYA\Projects\PongGame\PongGame\PongGame\bin\Debug\PongGame.exe.config
+C:\AISWARYA\Projects\PongGame\PongGame\PongGame\bin\Debug\PongGame.exe
+C:\AISWARYA\Projects\PongGame\PongGame\PongGame\bin\Debug\PongGame.pdb
+C:\AISWARYA\Projects\PongGame\PongGame\PongGame\obj\Debug\PongGame.csproj.AssemblyReference.cache
+C:\AISWARYA\Projects\PongGame\PongGame\PongGame\obj\Debug\PongGame.Pong.resources
+C:\AISWARYA\Projects\PongGame\PongGame\PongGame\obj\Debug\PongGame.Characterform.resources
+C:\AISWARYA\Projects\PongGame\PongGame\PongGame\obj\Debug\PongGame.Properties.Resources.resources
+C:\AISWARYA\Projects\PongGame\PongGame\PongGame\obj\Debug\PongGame.csproj.GenerateResource.cache
+C:\AISWARYA\Projects\PongGame\PongGame\PongGame\obj\Debug\PongGame.csproj.CoreCompileInputs.cache
+C:\AISWARYA\Projects\PongGame\PongGame\PongGame\obj\Debug\PongGame.exe
+C:\AISWARYA\Projects\PongGame\PongGame\PongGame\obj\Debug\PongGame.pdb
